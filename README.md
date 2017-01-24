@@ -5,7 +5,7 @@ This repository hosts a public copy of the assignment write-ups for CMSI 186-03.
 
 - [Assignment 0116](http://myweb.lmu.edu/dondi/spring2017/cmsi186/cmsi186-spring2017-hw0116.pdf) GitHub, Piazza, and YouTube account setup
 - [Assignment 0130](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/practice.md) Java + GitHub commit practice
-- [Assignment 0213](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/time-and-money.md) Java Transition Exercises: Time and Money
+- [Assignment 0213](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/time-and-money.md) Java transition exercises: Time and Money
 - Classes and objects; board/parlor game logic
 - Discrete event simulation
 - Arithmetic first principles
