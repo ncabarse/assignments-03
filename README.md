@@ -7,7 +7,7 @@ This repository hosts a public copy of the assignment write-ups for CMSI 186-03.
 - [Assignment 0206 Part 0](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/time-and-money.md#part-0-commit-practice) Java + GitHub commit practice
 - [Assignment 0206](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/time-and-money.md) Java transition exercises: Time and Money
 - [Assignment 0220](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/game-of-coins.md) Classes and objects: Game of Coins
-- Discrete event simulation
+- [Assignment 0313](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/world-of-carcraft.md) Discrete event simulation: World of Carcraft
 - Arithmetic first principles
 - Randomized estimation
 - Dynamic programming
