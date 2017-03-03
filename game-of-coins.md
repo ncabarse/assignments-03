@@ -88,6 +88,6 @@ Phew! That seems like a lot to do but it’s mostly explanation. Here’s a summ
 
 - Write `BagOfCoins` according to the specifications given [on the course website](http://myweb.lmu.edu/dondi/spring2017/cmsi186/bag-of-coins)
 - Write `AlexanderHamilton` according to the specifications given on these instructions
-- Document ten (10) or more experiments with `AlexanderHamilton` in a file called _experiments.txt_.
+- Document ten (10) or more experiments with `AlexanderHamilton` in a file called _experiments.md_.
 
 Save them all in the GitHub repository that is given to you upon accepting the assignment.
