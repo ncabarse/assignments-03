@@ -8,7 +8,7 @@ This repository hosts a public copy of the assignment write-ups for CMSI 186-03.
 - [Assignment 0206](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/time-and-money.md) Java transition exercises: Time and Money
 - [Assignment 0220](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/game-of-coins.md) Classes and objects: Game of Coins
 - [Assignment 0313](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/world-of-carcraft.md) Discrete event simulation: World of Carcraft
+- [Live-Coding 0314](http://myweb.lmu.edu/dondi/share/lab/Dartboard.java) Randomized estimation of π—_Instructions to be given in class, so listen up!_
 - [Assignment 0331](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/intzilla.md) Arithmetic first principles: Intzilla
-- Randomized estimation
 - Dynamic programming
 - Backtracking search
