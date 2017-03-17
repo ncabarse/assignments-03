@@ -9,6 +9,6 @@ This repository hosts a public copy of the assignment write-ups for CMSI 186-03.
 - [Assignment 0220](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/game-of-coins.md) Classes and objects: Game of Coins
 - [Assignment 0313](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/world-of-carcraft.md) Discrete event simulation: World of Carcraft
 - [Live-Coding 0314](https://raw.githubusercontent.com/lmu-cmsi186-spring2017/assignments-03/master/Dartboard.java) Randomized estimation of π—_Instructions to be given in class, so listen up!_
-- [Assignment 0331](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/intzilla.md) Arithmetic first principles: Intzilla
+- [Assignment 0402](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/intzilla.md) Arithmetic first principles: Intzilla
 - Dynamic programming
 - Backtracking search
