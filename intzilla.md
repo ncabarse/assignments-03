@@ -1,6 +1,6 @@
 **CMSI 186-03** Programming Laboratory, Spring 2017
 
-# Assignment 0331
+# Assignment 0402
 This assignment asks you to do something that we all know how to do: arithmetic. The wrinkle is, you are asked to implement arithmetic from scratch (“first principles”), and to motivate this, we’ll do arithmetic for something that isn’t available in some programming languages: _arbitrarily large integers_.
 
 ## Background Reading
