@@ -10,5 +10,6 @@ This repository hosts a public copy of the assignment write-ups for CMSI 186-03.
 - [Assignment 0313](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/world-of-carcraft.md) Discrete event simulation: World of Carcraft
 - [Live-Coding 0314](https://raw.githubusercontent.com/lmu-cmsi186-spring2017/assignments-03/master/Dartboard.java) Randomized estimation of π—_Instructions to be given in class, so listen up!_
 - [Assignment 0403](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/intzilla.md) Arithmetic first principles: Intzilla
+- [Assignment 0410](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/estimation-by-darts.md) Randomized estimation: Cleanup/wrap-up assignment
 - Dynamic programming
 - Backtracking search
