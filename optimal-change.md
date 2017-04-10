@@ -82,6 +82,7 @@ The `denominations` argument is a comma-separated list of integers without space
     - 4 1-cent coins
 
 ### Implementation Notes
+- The initial code that needs to be fixed is very similar to code that you’ve written before. (_Hint:_ What past assignment sought to do something very similar to what `MakeOptimalChange` is trying to do?)
 - It’s all about the mantra given in class, given in class, given in class (no shortcuts). Make sure you have the mantra down cold.
 - A helper method that is not included, but which you might find useful, is a `displayTable` helper. This will allow you to inspect the state of the solution table while the program is running.
 - The denominations do not have to be sorted (and your code should not sort them, either).
