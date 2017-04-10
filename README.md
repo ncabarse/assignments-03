@@ -11,5 +11,5 @@ This repository hosts a public copy of the assignment write-ups for CMSI 186-03.
 - [Live-Coding 0314](https://raw.githubusercontent.com/lmu-cmsi186-spring2017/assignments-03/master/Dartboard.java) Randomized estimation of π—_Instructions to be given in class, so listen up!_
 - [Assignment 0403](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/intzilla.md) Arithmetic first principles: Intzilla
 - [Assignment 0410](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/estimation-by-darts.md) Randomized estimation: Cleanup/wrap-up assignment
-- Dynamic programming
+- [Assignment 0419](https://github.com/lmu-cmsi186-spring2017/assignments-03/blob/master/optimal-change.md) Dynamic programming: Optimal Change
 - Backtracking search
