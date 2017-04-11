@@ -4,20 +4,36 @@ When plugging in different numbers into the dartboard, I decided to increase the
 
 Nicholas-Cabarses-Mac:piEstimator NICH$ java piEstimator 250 | java Dartboard
 Pi Estimate: 3.344
+
+
 Nicholas-Cabarses-Mac:piEstimator NICH$ java piEstimator 500 | java Dartboard
 Pi Estimate: 3.224
+
+
 Nicholas-Cabarses-Mac:piEstimator NICH$ java piEstimator 750 | java Dartboard
 Pi Estimate: 3.1093333333333333
+
+
 Nicholas-Cabarses-Mac:piEstimator NICH$ java piEstimator 1000 | java Dartboard
 Pi Estimate: 3.148
+
+
 Nicholas-Cabarses-Mac:piEstimator NICH$ java piEstimator 1250 | java Dartboard
 Pi Estimate: 3.1712
+
+
 Nicholas-Cabarses-Mac:piEstimator NICH$ java piEstimator 1500 | java Dartboard
 Pi Estimate: 3.152
+
+
 Nicholas-Cabarses-Mac:piEstimator NICH$ java piEstimator 1750 | java Dartboard
 Pi Estimate: 3.0994285714285716
+
+
 Nicholas-Cabarses-Mac:piEstimator NICH$ java piEstimator 2000 | java Dartboard
 Pi Estimate: 3.186
+
+
 Nicholas-Cabarses-Mac:piEstimator NICH$ java piEstimator 2250 | java Dartboard
 Pi Estimate: 3.1004444444444443
 
